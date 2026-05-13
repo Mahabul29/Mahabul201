@@ -1,1 +1,61 @@
+1- this is a telegram bot 
+2 - when i am start the bot bot give me webveiw button 
+3 - design website 
+4 - Movies upload from telegram bot user can assces
+5 - When click a movie tile the bot give movie information given below download button 
+6- Download Quality 480p 720p 1080p
+7 - when clicked quality bot redirect into download page 
+8 - No need to add download Stetem just added button 
+9 - i can upload file photo and link directly from telegram bot
+10 - use command /upload 
+database
+      banned.py
+      maintenance.py
+     users_db.py
+plugins
+      /start.py (For telegram bot start massage)
+       link_generator.py (bot redirect into browser)
+        callback.py
+template
+      /dl.html
+       req.html ( for design webpage)
+      style.css (for design webpage)
+       index.html
+utils
+    download.py
+    file_size.py (for webpage file size)
+    __init__.py
+web
+   server.py
+   download.py (for download button in webpage)
+  __init__.py
+
+Procfile
+README.md
+Script.py
+bot.py
+config.py
+data.py
+main.py
+requirements.txt
+runtime.txt
+
+API_ID 
+API_HASH 
+BOT_TOKEN
+DATABASE_URI 
+LOG_CHANNEL
+BIN_CHANNEL
+OWNER_ID 
+ADMINS 
+PORT 
+FQDN 
+
+i am use koyeb koyeb provide FQDN run webpage in this 
+
+
+
+
+
+
 
