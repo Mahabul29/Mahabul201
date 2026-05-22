@@ -1,0 +1,45 @@
+This is a telegram music stream bot 
+when i am start the bot bot gives me start massage and view i browser 
+when i am click view in browser bot redirect into browser 
+and song selection select song and play 
+Added search button for song search 
+added letest Release song name and many more like actual music player 
+
+give me codes 
+         database
+                banned.py
+                maintenance.py
+                users_db.py
+         plugins
+               Start.py
+                help.py
+             ( create more file)
+        template
+            req.html
+            dl.html
+         utils
+           (create files)
+      web
+         server.py
+         stream.py
+         music play.py
+         Backrounds
+         Download.py
+         (create more file)
+Procfile
+README.md
+Script.py
+bot.py
+config.py
+data.py
+main.py
+requirements.txt
+runtime.txt
+          assets
+          (create files)
+
+cache
+cookies
+cookies.txt
+    i give you config.py verioviole name
+
