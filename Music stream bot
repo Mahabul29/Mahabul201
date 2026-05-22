@@ -17,6 +17,8 @@ give me codes
         template
             req.html
             dl.html
+            style.css
+           detail.html
          utils
            (create files)
       web
@@ -42,4 +44,8 @@ cache
 cookies
 cookies.txt
     i give you config.py verioviole name
+API_ID API_HASH BOT_TOKEN DATABASE_URI LOG_CHANNEL
+FQDN PORT ADMINS OWNER_ID BIN_CHANNEL BOT_USERNAME
 
+koyeb provide fqdn bot runs koyeb fqdn
+is this possible if possible then create code and website homepage and player page
