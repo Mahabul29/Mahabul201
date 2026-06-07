@@ -11,3 +11,38 @@ chat ------- Profile
 added profile username 
 when someone click the webside then bot asked set username and password 
 and someone click someone profile then added massage features 
+swnd me those code
+database
+        users_db.py
+         maintenance.py
+         init.py
+         banned.py
+plugins
+        Massage.py (for user details)
+        send.py (for send massage)
+        recived.py (for recived massage)
+        start.py (for telegram bot start)
+       commands.py 
+template
+        style.css
+        req.html
+        index_final.html
+        dl.html
+        detail.html
+        base.html
+utils  (added files)
+      web
+         server.py
+        userpannel.py
+    procfile 
+    REDAME.md
+    Script.py
+     config.py ( added files like bottoken, admin,api id , api hash ,databased url , db name ,  
+,fqdn (this is keyb fqdn to run the webside )
+data.py
+main.py
+requirements.txt
+runtime.txt
+bot.py
+also generate a images so I can understand 
+
